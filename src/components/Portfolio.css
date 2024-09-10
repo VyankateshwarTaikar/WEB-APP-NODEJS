@@ -1,0 +1,26 @@
+.portfolio {
+    padding: 60px 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .portfolio-items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .portfolio-item {
+    width: 30%;
+    margin: 15px;
+    text-align: center;
+  }
+  
+  .portfolio-item img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .portfolio-item h3 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+  }
+  

@@ -1,0 +1,26 @@
+.header {
+    background-color: #282c34; /* Dark background color */
+    padding: 10px; /* Space inside the header */
+    color: white; /* White text color */
+  }
+  
+  .header ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Display list items in a row */
+  }
+  
+  .header li {
+    margin-right: 20px; /* Space between menu items */
+  }
+  
+  .header a {
+    color: white; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .header a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  

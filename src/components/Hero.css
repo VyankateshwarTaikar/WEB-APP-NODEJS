@@ -1,0 +1,23 @@
+.hero {
+    height: 100vh;
+    background-image: url('C:\Users\User\Downloads/flower7.jpg'); /* Replace with the actual image path */
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero .btn {
+    padding: 10px 20px;
+    background-color: #ff4b2b;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 5px;
+  }
+  

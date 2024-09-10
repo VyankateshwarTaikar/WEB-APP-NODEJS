@@ -1,0 +1,19 @@
+.resume {
+    padding: 60px 20px;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .resume h2 {
+    font-size: 2.5rem;
+  }
+  
+  .resume-items {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .resume .experience, .resume .education {
+    width: 45%;
+  }
+  
